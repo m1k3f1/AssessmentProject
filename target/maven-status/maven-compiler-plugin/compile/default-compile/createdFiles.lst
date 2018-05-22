@@ -1,6 +1,0 @@
-assessment\project\transaction\Operations.class
-assessment\project\entity\Transaction.class
-assessment\project\hibernate\HibernateUtil.class
-assessment\project\main\Main.class
-assessment\project\transaction\PersistDataBase.class
-assessment\project\transaction\PersistFileSystem.class
